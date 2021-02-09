@@ -15,7 +15,7 @@
 #
 
 # Repository Link.
-[Simple Database System With GUI](https://github.com/Ahmed-Eldakhly/Simple-database-bash-shell-script.git)
+[Simple Database System using bash shell script](https://github.com/Ahmed-Eldakhly/Simple-database-bash-shell-script.git)
 
 #
 
